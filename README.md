@@ -30,7 +30,7 @@ Ubuntu\_Requests/
 │
 ├── Fetched\_Images/        # Folder where downloaded images are stored
 │
-├── fetch\_image.py          # Main Python script
+├── ubuntu_image_fetcher.py          # Main Python script
 │
 └── README.md               # Project documentation
 
@@ -83,7 +83,7 @@ pip install requests
 ### **4. Run the program**
 
 ```bash
-python fetch_image.py
+python ubuntu_image_fetcher.py
 ```
 
 ---
