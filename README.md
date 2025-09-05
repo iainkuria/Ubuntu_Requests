@@ -160,4 +160,4 @@ This project is graded based on:
 ## 🧑‍💻 Author
 
 **Ian Kuria Kariuki**
-GitHub: [@<iainkuria>](https://github.com/<iainkuria>)
+GitHub: [@iainkuria](https://github.com/iainkuria)
